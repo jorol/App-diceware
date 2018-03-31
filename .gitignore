@@ -1,0 +1,8 @@
+!META.json
+.tidyall.d/
+/.build
+/.prove
+/App-diceware-*
+/Build
+/_build*
+MYMETA.*

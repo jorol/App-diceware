@@ -1,0 +1,12 @@
+[PerlTidy]
+select = {lib,script,t,xt}/**/*.{pl,pm,t}
+select = Build.PL
+select = {mod2html,podtree2html,pods2html,perl2html}
+argv = --profile=$ROOT/.perltidyrc
+ 
+[PerlCritic]
+select = {lib,script}/**/*.{pm,pl}
+argv = --profile $ROOT/.perlcriticrc
+
+[SortLines]
+select = .gitignore
