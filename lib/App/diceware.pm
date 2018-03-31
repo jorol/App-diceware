@@ -135,6 +135,6 @@ it under the same terms as Perl itself.
 
 =head1 SEE ALSO
 
-L<Dicewware|https://en.wikipedia.org/wiki/Diceware>
+L<Diceware|https://en.wikipedia.org/wiki/Diceware>
 
 =cut
