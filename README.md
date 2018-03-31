@@ -41,4 +41,4 @@ it under the same terms as Perl itself.
 
 # SEE ALSO
 
-[Dicewware](https://en.wikipedia.org/wiki/Diceware)
+[Diceware](https://en.wikipedia.org/wiki/Diceware)
